@@ -1,5 +1,4 @@
-name: Test the project and update the test-date
-
+name: NEW
 on:
   schedule:
     - cron: '0 0 10 * *'
